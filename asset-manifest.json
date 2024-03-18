@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/uhalisi/static/css/main.a59f4d3e.css",
+    "main.js": "/uhalisi/static/js/main.9f30506b.js",
+    "index.html": "/uhalisi/index.html",
+    "main.a59f4d3e.css.map": "/uhalisi/static/css/main.a59f4d3e.css.map",
+    "main.9f30506b.js.map": "/uhalisi/static/js/main.9f30506b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a59f4d3e.css",
+    "static/js/main.9f30506b.js"
+  ]
+}
