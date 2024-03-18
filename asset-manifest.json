@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/uhalisi/static/css/main.a59f4d3e.css",
-    "main.js": "/uhalisi/static/js/main.9f30506b.js",
+    "main.js": "/uhalisi/static/js/main.2a4964b8.js",
     "index.html": "/uhalisi/index.html",
     "main.a59f4d3e.css.map": "/uhalisi/static/css/main.a59f4d3e.css.map",
-    "main.9f30506b.js.map": "/uhalisi/static/js/main.9f30506b.js.map"
+    "main.2a4964b8.js.map": "/uhalisi/static/js/main.2a4964b8.js.map"
   },
   "entrypoints": [
     "static/css/main.a59f4d3e.css",
-    "static/js/main.9f30506b.js"
+    "static/js/main.2a4964b8.js"
   ]
 }
